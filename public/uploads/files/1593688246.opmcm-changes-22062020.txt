@@ -1,0 +1,35 @@
+1. Media File names edit.
+2. Logout -> go to login
+3. Login -> 
+4. checkbox if two option
+5. Use list in case of multiselect
+6. Superadmin should edit password.
+7. Roles clean up
+8. Bulk delete, in media files.
+9. Media File names edit.
+10.Remove Embed URL
+11. Staff/ Former Chief-Secretary/ Former PM/ staffContacts -- Pages.
+12. Replace summary from staff.
+13. From - to in ex pm and former chief ministers.
+14. Bio as CKEditor
+15. model state maintain.
+16. Replace event from backend menu
+17.  Remove summary from post
+18. UI/UX backend
+19. Select media files whereever.
+20. Edit link for every post/pages/mediafiles
+21. Remove Quotes from backend menu.
+22. Order in links
+23. Pop up- settings. (when, where, time, order, numbers) - only on homepage
+24. Workout on widgets
+25. Nepali calender in date picker.
+26. Section show on homepage directly.
+27. Sub menu on main menu.
+28. css changes (color and transparency) for header.
+29. Published date and tags filters
+30.  vertical scroll on list.
+31.  Preview sessions for logged in users.
+32. Rss in footer.
+33. list with less spaces.
+34. Photo click full size photo.
+35.

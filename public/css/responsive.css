@@ -1,0 +1,66 @@
+@media (max-width: 768px){
+	.header-navbar-language{
+		top: 70%;
+	}
+
+	.opmcm-header-position {
+		position: relative;
+		margin-bottom: -126px;
+	}
+	
+	.home-intro-image{
+		height: 200px;
+		width: 200px;
+	}
+	.scroll-container > section > .scroll-div {
+		top: 20%;
+		transform: none;
+	}
+	.home-intro-content h1{
+		text-align: center;
+		font-size: 18px;
+	}
+	.home-intro-content{
+		margin-top: 10px;
+	}
+	.home-intro-content p{
+		display: none;
+	}
+	.home-intro-content a>p{
+		display: block;
+		text-align: center;
+	}
+	.home-gm-intro-image{
+		height: 150px;
+		width: 150px;
+	}
+	.home-gm-new-intro{
+		display: flex;
+		justify-content: center;
+	}
+	.home-gm-intro-content h3{
+		text-align: center;
+	}
+	.home-latest-updates-card{
+		margin-top: 15px;
+		padding: 15px;
+	}
+
+	.opmcm-popup-modal .modal-title{
+		font-size: 10px;
+		text-align: center;
+	}
+	.opmcm-popup-modal .modal-body h1, .opmcm-popup-modal .modal-body h2, .opmcm-popup-modal .modal-body h3{
+		font-size: 12px!important;
+		text-align: center;
+	}
+	.opmcm-popup-modal .modal-body h4, .opmcm-popup-modal .modal-body h5, .opmcm-popup-modal .modal-body  h6{
+		font-size: 12px!important;
+		text-align: center;
+	}
+	.opmcm-popup-modal .modal-body p{
+		font-size: 10px!important;
+		text-align: center;
+	}
+
+}

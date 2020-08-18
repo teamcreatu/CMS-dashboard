@@ -1,0 +1,130 @@
+.pa-0{
+    padding: 0;
+}
+
+.inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+.inputfile-1 + label {
+    color: #ffffff;
+    background-color: #32c5d2;
+}
+.inputfile + label {
+    max-width: 80%;
+    font-size: 1.25rem;
+    font-weight: 700;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    padding: 0.625rem 1.25rem;
+}
+.inputfile + label svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    fill: currentColor;
+    margin-top: -0.25em;
+    margin-right: 0.25em;
+}
+
+
+
+.cd-admin-image{
+	height: 100px;
+    width: auto;
+    object-fit: contain;
+}
+
+
+
+
+.cd-admin-required{
+    color: #f00;
+}
+
+
+
+#modal-image .modal-body .col-md-3{
+    height: 200px;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+#modal-image .modal-body .col-md-3 img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border: none!important;
+    transition: 0.4s ease;
+}
+#modal-image .modal-body .col-md-3 img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+
+
+#modal-image1 .modal-body .col-md-3{
+    height: 200px;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+#modal-image1 .modal-body .col-md-3 img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border: none!important;
+    transition: 0.4s ease;
+}
+#modal-image1 .modal-body .col-md-3 img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.modal-body{
+    max-height: 600px;
+    overflow-y: auto;
+}
+
+
+
+
+.opmcm-menu-url h4{
+    cursor: pointer;
+    margin-bottom: 5px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #8a8a8a;
+    transition: 0.4s ease;
+}
+.opmcm-menu-url h4:hover{
+    color: #000;
+    text-shadow: 0 0 2px rgba(0,0,0,0.5);
+} 
+.opmcm-menu-url h4:hover::after{
+    content: '\2713';   
+    color: green;
+    margin-left: 5px;
+}
+
+
+
+
+.dashboard-image-checkbox{
+    position: absolute;
+    top: -18px;
+    left: 10px;
+}
+.dashboard-image-checkbox span{
+    box-shadow: 0 0 5px 0 rgba(0,0,0,0.5);
+}
+
+.active-lang {
+  background: #fff;
+}
